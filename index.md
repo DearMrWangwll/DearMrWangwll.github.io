@@ -2,6 +2,9 @@
 
 Go to my [homepage](https://github.com/DearMrWangwll) to get more information.
 
+### Basic Information
+
+- email: <linglingwu0406@gmail.com>
 
 
 ### Enducation
