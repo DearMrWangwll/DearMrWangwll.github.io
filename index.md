@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education
 
 SJTU(Shanghai Jiaotong University): 2017.9 - 2021.6
+
 FDU(Fudan University): 2021.9 - now
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
